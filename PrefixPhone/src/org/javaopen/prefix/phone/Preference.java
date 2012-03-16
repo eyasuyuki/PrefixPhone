@@ -45,6 +45,7 @@ public class Preference extends PreferenceActivity {
 			editor.commit();
 		}
 		
+		value = sp.getString(key, null);
 		prefixEdit.setText(value);
 		prefixEdit.setSummary(value);
 	}
