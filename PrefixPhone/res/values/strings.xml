@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="app_name">PrefixPhone</string>
-
+    <!-- prefix activity -->
+    <string name="prefix_default">003766</string>
+	<!-- preference -->
+	<string name="prefix_key">prefix</string>
+	<string name="prefix_title">Prefix:</string>
+	<string name="remove_left_key">remove_left</string>
+	<string name="remove_left_title">Remove left zero:</string>
 </resources>
