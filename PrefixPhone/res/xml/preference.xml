@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+	<EditTextPreference android:key="@string/prefix_key"
+	    android:title="@string/prefix_title"/>
+	<CheckBoxPreference android:key="@string/remove_left_key"
+	    android:title="@string/remove_left_title" />
+</PreferenceScreen>
